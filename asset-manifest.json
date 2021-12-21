@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nikita290599.github.io/csb-49ksc/static/css/main.3c7cc1bd.chunk.css",
+    "main.js": "https://nikita290599.github.io/csb-49ksc/static/js/main.29a73885.chunk.js",
+    "main.js.map": "https://nikita290599.github.io/csb-49ksc/static/js/main.29a73885.chunk.js.map",
+    "runtime-main.js": "https://nikita290599.github.io/csb-49ksc/static/js/runtime-main.a43683e7.js",
+    "runtime-main.js.map": "https://nikita290599.github.io/csb-49ksc/static/js/runtime-main.a43683e7.js.map",
+    "static/js/2.16a7fd0a.chunk.js": "https://nikita290599.github.io/csb-49ksc/static/js/2.16a7fd0a.chunk.js",
+    "static/js/2.16a7fd0a.chunk.js.map": "https://nikita290599.github.io/csb-49ksc/static/js/2.16a7fd0a.chunk.js.map",
+    "index.html": "https://nikita290599.github.io/csb-49ksc/index.html",
+    "static/css/main.3c7cc1bd.chunk.css.map": "https://nikita290599.github.io/csb-49ksc/static/css/main.3c7cc1bd.chunk.css.map",
+    "static/js/2.16a7fd0a.chunk.js.LICENSE.txt": "https://nikita290599.github.io/csb-49ksc/static/js/2.16a7fd0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a43683e7.js",
+    "static/js/2.16a7fd0a.chunk.js",
+    "static/css/main.3c7cc1bd.chunk.css",
+    "static/js/main.29a73885.chunk.js"
+  ]
+}
